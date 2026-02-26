@@ -23,7 +23,7 @@
 ## Фотография:
 <img width="1265" height="715" alt="image" src="https://github.com/user-attachments/assets/fbebf41e-b120-4810-a5ac-b4f7e4b47708" />
 
-## Любимый еда:
+## Любимая еда:
 ***`Бананы`***
 
 <img width="822" height="810" alt="image" src="https://github.com/user-attachments/assets/28e11e82-f813-4df2-91b6-72863219346c" />
